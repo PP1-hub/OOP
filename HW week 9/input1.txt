@@ -1,0 +1,4 @@
+Hello it's for ReadFile2 
+aaaaaaaa
+bb
+c
